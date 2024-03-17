@@ -1,5 +1,5 @@
 # Panic Buying Simulator
-### Project created for educational YouTube video
+### Project created for educational YouTube video (2020)
 YouTube: https://www.youtube.com/watch?v=ZSdnssSc2XQ&t=220s
 
 ![image info](thumbnail.png)
